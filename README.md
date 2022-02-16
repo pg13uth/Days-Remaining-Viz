@@ -1,2 +1,3 @@
 # Days-Remaining-Viz
 I wanted to experiment with matplotlib, and know how much time I had left on deployment...
+Developed in Jupyter Notebook.
